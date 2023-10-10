@@ -16,6 +16,7 @@ int main () {
     //leitura das coordenadas dos pontos
     printf ("Informe as coordenadas para o primeiro ponto:\n");
     scanf ("%i %i", &x1, &y1);
+    
     printf ("Informe as coordenadas para o segundo ponto:\n");
     scanf ("%i %i", &x2, &y2);
 
