@@ -19,7 +19,7 @@ int main () {
     printf ("Informe as coordenadas para o segundo ponto:\n");
     scanf ("%i %i", &x2, &y2);
 
-    //calculo e impressão juntos
+    //calculo e impressao juntos
     distancia = (calculaDistancia (x1, y1, x2, y2));
     printf ("Distancia: %f\n", distancia);
 
